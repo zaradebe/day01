@@ -1,4 +1,4 @@
 #!bin/bash
 
 
-klist
+who am i
