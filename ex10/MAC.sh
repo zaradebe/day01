@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #-fconfig -a
-netstat -ia
+netstat -ia ^r
